@@ -8,7 +8,7 @@ Repository holds [Whisper](https://github.com/openai/whisper) generated transcri
 
 Go to <https://simicvm.github.io/hubcap/> and select the podcast you want to check.
 
-Alternatively, you can download the transcripts from the `transcripts` folder.
+Alternatively, you can download the transcripts from the `docs` folder.
 
 ## About Andrew Huberman, Ph.D.
 
